@@ -1,4 +1,4 @@
-# Consoles Applications for RabbitMQ Queue
+# Consoles Applications using RabbitMQ Queue
 <p>This is a simple project following the RabbitMQ tutorial.</p>
 
 ## Stack
